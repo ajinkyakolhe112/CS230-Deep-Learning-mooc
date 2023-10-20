@@ -6,3 +6,6 @@
 
 
 
+### Struggles
+1. Hopefully 3rd time is the charm
+2. 

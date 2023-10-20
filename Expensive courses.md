@@ -1,0 +1,5 @@
+so, you decide to learn Deep Learning. Whether it is to make money or you are just worried about losing job because of AI. So it's better to learn it for future proofing your career.
+But unfortunately, a lot of the options are really expensive. They are expensive courses, which range from average to mediocre. But they not good courses, even if they have tie ups with reputed universities.
+length is unnecessarily increased with different topics to justify their cost. Also these lengthy courses aren't coherent in their organisation
+or at another end you have cheap courses, which are just repeating same basic things and by completing them, all you get is an illusion of expertise. Like having infinite water but in mirage.
+we need to find great courses which cover all concepts with coding & understanding both

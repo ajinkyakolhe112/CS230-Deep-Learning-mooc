@@ -1,6 +1,7 @@
 Week 2 Lecture Notes: 1 Neuron NN from Scratch Directly
 
-1. Logistic Regression as NN
+### Lecture Notes
+1. Binary Classification: (Logistic Regression as NN)
    1. **NEW**: NN as Neuron -> Layer -> Multi layers: Data -> Weights -> Activation -> Error -> Error wrt Weights Gradient -> Weight Update in Direction of Error Reduction. (Simple one at a time Gradient Descent, not a fancy name)
       1. All innovation, improvements, are on this basic structure
          1. Data -> Transfer Learning & Image Augmentation
@@ -18,12 +19,11 @@ Week 2 Lecture Notes: 1 Neuron NN from Scratch Directly
          5. Error
          6. Error wrt Weights Gradient Calculation
          7. Weight Update
-   2. Binary Classification for Cat or Not Cat
-      1. Changes
-         1. Use image as 2d, instead of vector. 
-         2. Use image dimentions with channels
-         3. Write example dimention in latex
-         4. Write kernel filter as table for better visibility
-         5. Show tizn package of neural network
-         6. Build interactable neural network viewer for fundamentals of the network
-         7. Tensorflow Playground
+   2. 
+2. Logistic Regression
+   1. **Commentary**:
+   2. **Add**:
+   3. **Add**:
+
+
+
